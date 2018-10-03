@@ -1,0 +1,1173 @@
+# Rime dictionary
+# encoding: utf-8
+#
+# Sanskrit/Devanagari 天城體梵文
+#
+#  
+
+---
+name: devanagari0
+version: "devanagari0.1"
+sort: original
+#import_tables:
+...
+
+ः	.h
+ं	.m
+ँ	..m
+ऽ	''
+º	'o
+ॐ	'om
+।	,
+॥	.,
+॰	\
+्	'\
+#ZWJ(\U200D]‍[) Zero Width Joiner  क्‍त ल्‍ँल[ल ◌् ZWJ ◌ँ ल] क्‍ च्‍ 在emeditor下用sanskrit2003字体显示。
+‍	/
+#ZWNJ(\U200C]‌[) Zero Width Non-Joiner   क्‌त[क ◌् ZWNJ त]
+‌	./
+#ZWSP(\U200B]​[) Zero Width Space零寬空格   क्​त
+​	../
+़	;\
+॒	-\
+॑	',
+॓	'`
+॔	'.`
+०	0
+१	1
+२	2
+३	3
+४	4
+५	5
+६	6
+७	7
+८	8
+९	9
+
+#######
+अ	a
+आ	.a
+इ	i
+ई	.i
+उ	u
+ऊ	.u
+ऋ	.r
+ॠ	..r
+ऌ	.l
+ॡ	..l
+ए	e
+ऐ	ai
+ओ	o
+औ	au
+ऍ	.e
+ऑ	.o
+ऎ	..e
+ऒ	..o
+ॲ	..a
+
+###
+ा	'.a
+ि	'i
+ी	'.i
+ु	'u
+ू	'.u
+ृ	'.r
+ॄ	'..r
+ॢ	'.l
+ॣ	'..l
+े	'e
+ै	'ai
+ो	'o
+ौ	'au
+ॅ	'.e
+ॆ	'..e
+ॉ	'.o
+ॊ	'..o
+
+###
+क्	k
+ख्	kh
+ग्	g
+घ्	gh
+ङ्	.g
+च्	c
+छ्	ch
+ज्	j
+झ्	jh
+ञ्	.j
+ट्	.t
+ठ्	.th
+ड्	.d
+ढ्	.dh
+ण्	.n
+त्	t
+थ्	th
+द्	d
+ध्	dh
+न्	n
+प्	p
+फ्	ph
+ब्	b
+भ्	bh
+म्	m
+य्	y
+र्	r
+ल्	l
+व्	v
+श्	z
+ष्	.s
+स्	s
+ह्	h
+क़्	;k
+ख़्	;kh
+ग़्	;g
+ज़्	;j
+ड़्	;.d
+ढ़्	;.dh
+ऩ्	;n
+फ़्	;ph
+य़्	;y
+ऱ्	;r
+ळ्	-l
+ऴ्	;-l
+ॻ्	-g
+ॼ्	-j
+ॾ्	-.d
+ॿ्	-b
+
+
+##
+क	ka
+ख	kha
+ग	ga
+घ	gha
+ङ	.ga
+च	ca
+छ	cha
+ज	ja
+झ	jha
+ञ	.ja
+ट	.ta
+ठ	.tha
+ड	.da
+ढ	.dha
+ण	.na
+त	ta
+थ	tha
+द	da
+ध	dha
+न	na
+प	pa
+फ	pha
+ब	ba
+भ	bha
+म	ma
+य	ya
+र	ra
+ल	la
+व	va
+श	za
+ष	.sa
+स	sa
+ह	ha
+क़	;ka
+ख़	;kha
+ग़	;ga
+ज़	;ja
+ड़	;.da
+ढ़	;.dha
+ऩ	;na
+फ़	;pha
+य़	;ya
+ऱ	;ra
+ळ	-la
+ऴ	;-la
+ॻ	-ga
+ॼ	-ja
+ॾ	-.da
+ॿ	-ba
+
+##
+क	kf
+ख	khf
+ग	gf
+घ	ghf
+ङ	.gf
+च	cf
+छ	chf
+ज	jf
+झ	jhf
+ञ	.jf
+ट	.tf
+ठ	.thf
+ड	.df
+ढ	.dhf
+ण	.nf
+त	tf
+थ	thf
+द	df
+ध	dhf
+न	nf
+प	pf
+फ	phf
+ब	bf
+भ	bhf
+म	mf
+य	yf
+र	rf
+ल	lf
+व	vf
+श	zf
+ष	.sf
+स	sf
+ह	hf
+क़	;kf
+ख़	;khf
+ग़	;gf
+ज़	;jf
+ड़	;.df
+ढ़	;.dhf
+ऩ	;nf
+फ़	;phf
+य़	;yf
+ऱ	;rf
+ळ	-lf
+ऴ	;-lf
+ॻ	-gf
+ॼ	-jf
+ॾ	-.df
+ॿ	-bf
+
+#########
+
+
+का	k.a
+कि	ki
+की	k.i
+कु	ku
+कू	k.u
+कृ	k.r
+कॄ	k..r
+कॢ	k.l
+कॣ	k..l
+कॅ	k.e
+कॆ	k..e
+के	ke
+कै	kai
+कॉ	k.o
+कॊ	k..o
+को	ko
+कौ	kau
+
+
+खा	kh.a
+खि	khi
+खी	kh.i
+खु	khu
+खू	kh.u
+खृ	kh.r
+खॄ	kh..r
+खॢ	kh.l
+खॣ	kh..l
+खॅ	kh.e
+खॆ	kh..e
+खे	khe
+खै	khai
+खॉ	kh.o
+खॊ	kh..o
+खो	kho
+खौ	khau
+
+
+गा	g.a
+गि	gi
+गी	g.i
+गु	gu
+गू	g.u
+गृ	g.r
+गॄ	g..r
+गॢ	g.l
+गॣ	g..l
+गॅ	g.e
+गॆ	g..e
+गे	ge
+गै	gai
+गॉ	g.o
+गॊ	g..o
+गो	go
+गौ	gau
+
+
+घा	gh.a
+घि	ghi
+घी	gh.i
+घु	ghu
+घू	gh.u
+घृ	gh.r
+घॄ	gh..r
+घॢ	gh.l
+घॣ	gh..l
+घॅ	gh.e
+घॆ	gh..e
+घे	ghe
+घै	ghai
+घॉ	gh.o
+घॊ	gh..o
+घो	gho
+घौ	ghau
+
+
+ङा	.g.a
+ङि	.gi
+ङी	.g.i
+ङु	.gu
+ङू	.g.u
+ङृ	.g.r
+ङॄ	.g..r
+ङॢ	.g.l
+ङॣ	.g..l
+ङॅ	.g.e
+ङॆ	.g..e
+ङे	.ge
+ङै	.gai
+ङॉ	.g.o
+ङॊ	.g..o
+ङो	.go
+ङौ	.gau
+
+
+चा	c.a
+चि	ci
+ची	c.i
+चु	cu
+चू	c.u
+चृ	c.r
+चॄ	c..r
+चॢ	c.l
+चॣ	c..l
+चॅ	c.e
+चॆ	c..e
+चे	ce
+चै	cai
+चॉ	c.o
+चॊ	c..o
+चो	co
+चौ	cau
+
+
+छा	ch.a
+छि	chi
+छी	ch.i
+छु	chu
+छू	ch.u
+छृ	ch.r
+छॄ	ch..r
+छॢ	ch.l
+छॣ	ch..l
+छॅ	ch.e
+छॆ	ch..e
+छे	che
+छै	chai
+छॉ	ch.o
+छॊ	ch..o
+छो	cho
+छौ	chau
+
+
+जा	j.a
+जि	ji
+जी	j.i
+जु	ju
+जू	j.u
+जृ	j.r
+जॄ	j..r
+जॢ	j.l
+जॣ	j..l
+जॅ	j.e
+जॆ	j..e
+जे	je
+जै	jai
+जॉ	j.o
+जॊ	j..o
+जो	jo
+जौ	jau
+
+
+झा	jh.a
+झि	jhi
+झी	jh.i
+झु	jhu
+झू	jh.u
+झृ	jh.r
+झॄ	jh..r
+झॢ	jh.l
+झॣ	jh..l
+झॅ	jh.e
+झॆ	jh..e
+झे	jhe
+झै	jhai
+झॉ	jh.o
+झॊ	jh..o
+झो	jho
+झौ	jhau
+
+
+ञा	.j.a
+ञि	.ji
+ञी	.j.i
+ञु	.ju
+ञू	.j.u
+ञृ	.j.r
+ञॄ	.j..r
+ञॢ	.j.l
+ञॣ	.j..l
+ञॅ	.j.e
+ञॆ	.j..e
+ञे	.je
+ञै	.jai
+ञॉ	.j.o
+ञॊ	.j..o
+ञो	.jo
+ञौ	.jau
+
+
+टा	.t.a
+टि	.ti
+टी	.t.i
+टु	.tu
+टू	.t.u
+टृ	.t.r
+टॄ	.t..r
+टॢ	.t.l
+टॣ	.t..l
+टॅ	.t.e
+टॆ	.t..e
+टे	.te
+टै	.tai
+टॉ	.t.o
+टॊ	.t..o
+टो	.to
+टौ	.tau
+
+
+ठा	.th.a
+ठि	.thi
+ठी	.th.i
+ठु	.thu
+ठू	.th.u
+ठृ	.th.r
+ठॄ	.th..r
+ठॢ	.th.l
+ठॣ	.th..l
+ठॅ	.th.e
+ठॆ	.th..e
+ठे	.the
+ठै	.thai
+ठॉ	.th.o
+ठॊ	.th..o
+ठो	.tho
+ठौ	.thau
+
+
+डा	.d.a
+डि	.di
+डी	.d.i
+डु	.du
+डू	.d.u
+डृ	.d.r
+डॄ	.d..r
+डॢ	.d.l
+डॣ	.d..l
+डॅ	.d.e
+डॆ	.d..e
+डे	.de
+डै	.dai
+डॉ	.d.o
+डॊ	.d..o
+डो	.do
+डौ	.dau
+
+
+ढा	.dh.a
+ढि	.dhi
+ढी	.dh.i
+ढु	.dhu
+ढू	.dh.u
+ढृ	.dh.r
+ढॄ	.dh..r
+ढॢ	.dh.l
+ढॣ	.dh..l
+ढॅ	.dh.e
+ढॆ	.dh..e
+ढे	.dhe
+ढै	.dhai
+ढॉ	.dh.o
+ढॊ	.dh..o
+ढो	.dho
+ढौ	.dhau
+
+
+णा	.n.a
+णि	.ni
+णी	.n.i
+णु	.nu
+णू	.n.u
+णृ	.n.r
+णॄ	.n..r
+णॢ	.n.l
+णॣ	.n..l
+णॅ	.n.e
+णॆ	.n..e
+णे	.ne
+णै	.nai
+णॉ	.n.o
+णॊ	.n..o
+णो	.no
+णौ	.nau
+
+
+ता	t.a
+ति	ti
+ती	t.i
+तु	tu
+तू	t.u
+तृ	t.r
+तॄ	t..r
+तॢ	t.l
+तॣ	t..l
+तॅ	t.e
+तॆ	t..e
+ते	te
+तै	tai
+तॉ	t.o
+तॊ	t..o
+तो	to
+तौ	tau
+
+
+था	th.a
+थि	thi
+थी	th.i
+थु	thu
+थू	th.u
+थृ	th.r
+थॄ	th..r
+थॢ	th.l
+थॣ	th..l
+थॅ	th.e
+थॆ	th..e
+थे	the
+थै	thai
+थॉ	th.o
+थॊ	th..o
+थो	tho
+थौ	thau
+
+
+दा	d.a
+दि	di
+दी	d.i
+दु	du
+दू	d.u
+दृ	d.r
+दॄ	d..r
+दॢ	d.l
+दॣ	d..l
+दॅ	d.e
+दॆ	d..e
+दे	de
+दै	dai
+दॉ	d.o
+दॊ	d..o
+दो	do
+दौ	dau
+
+
+धा	dh.a
+धि	dhi
+धी	dh.i
+धु	dhu
+धू	dh.u
+धृ	dh.r
+धॄ	dh..r
+धॢ	dh.l
+धॣ	dh..l
+धॅ	dh.e
+धॆ	dh..e
+धे	dhe
+धै	dhai
+धॉ	dh.o
+धॊ	dh..o
+धो	dho
+धौ	dhau
+
+
+ना	n.a
+नि	ni
+नी	n.i
+नु	nu
+नू	n.u
+नृ	n.r
+नॄ	n..r
+नॢ	n.l
+नॣ	n..l
+नॅ	n.e
+नॆ	n..e
+ने	ne
+नै	nai
+नॉ	n.o
+नॊ	n..o
+नो	no
+नौ	nau
+
+
+पा	p.a
+पि	pi
+पी	p.i
+पु	pu
+पू	p.u
+पृ	p.r
+पॄ	p..r
+पॢ	p.l
+पॣ	p..l
+पॅ	p.e
+पॆ	p..e
+पे	pe
+पै	pai
+पॉ	p.o
+पॊ	p..o
+पो	po
+पौ	pau
+
+
+फा	ph.a
+फि	phi
+फी	ph.i
+फु	phu
+फू	ph.u
+फृ	ph.r
+फॄ	ph..r
+फॢ	ph.l
+फॣ	ph..l
+फॅ	ph.e
+फॆ	ph..e
+फे	phe
+फै	phai
+फॉ	ph.o
+फॊ	ph..o
+फो	pho
+फौ	phau
+
+
+बा	b.a
+बि	bi
+बी	b.i
+बु	bu
+बू	b.u
+बृ	b.r
+बॄ	b..r
+बॢ	b.l
+बॣ	b..l
+बॅ	b.e
+बॆ	b..e
+बे	be
+बै	bai
+बॉ	b.o
+बॊ	b..o
+बो	bo
+बौ	bau
+
+
+भा	bh.a
+भि	bhi
+भी	bh.i
+भु	bhu
+भू	bh.u
+भृ	bh.r
+भॄ	bh..r
+भॢ	bh.l
+भॣ	bh..l
+भॅ	bh.e
+भॆ	bh..e
+भे	bhe
+भै	bhai
+भॉ	bh.o
+भॊ	bh..o
+भो	bho
+भौ	bhau
+
+
+मा	m.a
+मि	mi
+मी	m.i
+मु	mu
+मू	m.u
+मृ	m.r
+मॄ	m..r
+मॢ	m.l
+मॣ	m..l
+मॅ	m.e
+मॆ	m..e
+मे	me
+मै	mai
+मॉ	m.o
+मॊ	m..o
+मो	mo
+मौ	mau
+
+
+या	y.a
+यि	yi
+यी	y.i
+यु	yu
+यू	y.u
+यृ	y.r
+यॄ	y..r
+यॢ	y.l
+यॣ	y..l
+यॅ	y.e
+यॆ	y..e
+ये	ye
+यै	yai
+यॉ	y.o
+यॊ	y..o
+यो	yo
+यौ	yau
+
+
+रा	r.a
+रि	ri
+री	r.i
+रु	ru
+रू	r.u
+रृ	r.r
+रॄ	r..r
+रॢ	r.l
+रॣ	r..l
+रॅ	r.e
+रॆ	r..e
+रे	re
+रै	rai
+रॉ	r.o
+रॊ	r..o
+रो	ro
+रौ	rau
+
+
+ला	l.a
+लि	li
+ली	l.i
+लु	lu
+लू	l.u
+लृ	l.r
+लॄ	l..r
+लॢ	l.l
+लॣ	l..l
+लॅ	l.e
+लॆ	l..e
+ले	le
+लै	lai
+लॉ	l.o
+लॊ	l..o
+लो	lo
+लौ	lau
+
+
+वा	v.a
+वि	vi
+वी	v.i
+वु	vu
+वू	v.u
+वृ	v.r
+वॄ	v..r
+वॢ	v.l
+वॣ	v..l
+वॅ	v.e
+वॆ	v..e
+वे	ve
+वै	vai
+वॉ	v.o
+वॊ	v..o
+वो	vo
+वौ	vau
+
+
+शा	z.a
+शि	zi
+शी	z.i
+शु	zu
+शू	z.u
+शृ	z.r
+शॄ	z..r
+शॢ	z.l
+शॣ	z..l
+शॅ	z.e
+शॆ	z..e
+शे	ze
+शै	zai
+शॉ	z.o
+शॊ	z..o
+शो	zo
+शौ	zau
+
+
+षा	.s.a
+षि	.si
+षी	.s.i
+षु	.su
+षू	.s.u
+षृ	.s.r
+षॄ	.s..r
+षॢ	.s.l
+षॣ	.s..l
+षॅ	.s.e
+षॆ	.s..e
+षे	.se
+षै	.sai
+षॉ	.s.o
+षॊ	.s..o
+षो	.so
+षौ	.sau
+
+
+सा	s.a
+सि	si
+सी	s.i
+सु	su
+सू	s.u
+सृ	s.r
+सॄ	s..r
+सॢ	s.l
+सॣ	s..l
+सॅ	s.e
+सॆ	s..e
+से	se
+सै	sai
+सॉ	s.o
+सॊ	s..o
+सो	so
+सौ	sau
+
+
+हा	h.a
+हि	hi
+ही	h.i
+हु	hu
+हू	h.u
+हृ	h.r
+हॄ	h..r
+हॢ	h.l
+हॣ	h..l
+हॅ	h.e
+हॆ	h..e
+हे	he
+है	hai
+हॉ	h.o
+हॊ	h..o
+हो	ho
+हौ	hau
+
+
+क़ा	;k.a
+क़ि	;ki
+क़ी	;k.i
+क़ु	;ku
+क़ू	;k.u
+क़ृ	;k.r
+क़ॄ	;k..r
+क़ॢ	;k.l
+क़ॣ	;k..l
+क़ॅ	;k.e
+क़ॆ	;k..e
+क़े	;ke
+क़ै	;kai
+क़ॉ	;k.o
+क़ॊ	;k..o
+क़ो	;ko
+क़ौ	;kau
+
+
+ख़ा	;kh.a
+ख़ि	;khi
+ख़ी	;kh.i
+ख़ु	;khu
+ख़ू	;kh.u
+ख़ृ	;kh.r
+ख़ॄ	;kh..r
+ख़ॢ	;kh.l
+ख़ॣ	;kh..l
+ख़ॅ	;kh.e
+ख़ॆ	;kh..e
+ख़े	;khe
+ख़ै	;khai
+ख़ॉ	;kh.o
+ख़ॊ	;kh..o
+ख़ो	;kho
+ख़ौ	;khau
+
+
+ग़ा	;g.a
+ग़ि	;gi
+ग़ी	;g.i
+ग़ु	;gu
+ग़ू	;g.u
+ग़ृ	;g.r
+ग़ॄ	;g..r
+ग़ॢ	;g.l
+ग़ॣ	;g..l
+ग़ॅ	;g.e
+ग़ॆ	;g..e
+ग़े	;ge
+ग़ै	;gai
+ग़ॉ	;g.o
+ग़ॊ	;g..o
+ग़ो	;go
+ग़ौ	;gau
+
+
+ज़ा	;j.a
+ज़ि	;ji
+ज़ी	;j.i
+ज़ु	;ju
+ज़ू	;j.u
+ज़ृ	;j.r
+ज़ॄ	;j..r
+ज़ॢ	;j.l
+ज़ॣ	;j..l
+ज़ॅ	;j.e
+ज़ॆ	;j..e
+ज़े	;je
+ज़ै	;jai
+ज़ॉ	;j.o
+ज़ॊ	;j..o
+ज़ो	;jo
+ज़ौ	;jau
+
+
+ड़ा	;.d.a
+ड़ि	;.di
+ड़ी	;.d.i
+ड़ु	;.du
+ड़ू	;.d.u
+ड़ृ	;.d.r
+ड़ॄ	;.d..r
+ड़ॢ	;.d.l
+ड़ॣ	;.d..l
+ड़ॅ	;.d.e
+ड़ॆ	;.d..e
+ड़े	;.de
+ड़ै	;.dai
+ड़ॉ	;.d.o
+ड़ॊ	;.d..o
+ड़ो	;.do
+ड़ौ	;.dau
+
+
+ढ़ा	;.dh.a
+ढ़ि	;.dhi
+ढ़ी	;.dh.i
+ढ़ु	;.dhu
+ढ़ू	;.dh.u
+ढ़ृ	;.dh.r
+ढ़ॄ	;.dh..r
+ढ़ॢ	;.dh.l
+ढ़ॣ	;.dh..l
+ढ़ॅ	;.dh.e
+ढ़ॆ	;.dh..e
+ढ़े	;.dhe
+ढ़ै	;.dhai
+ढ़ॉ	;.dh.o
+ढ़ॊ	;.dh..o
+ढ़ो	;.dho
+ढ़ौ	;.dhau
+
+
+ऩा	;n.a
+ऩि	;ni
+ऩी	;n.i
+ऩु	;nu
+ऩू	;n.u
+ऩृ	;n.r
+ऩॄ	;n..r
+ऩॢ	;n.l
+ऩॣ	;n..l
+ऩॅ	;n.e
+ऩॆ	;n..e
+ऩे	;ne
+ऩै	;nai
+ऩॉ	;n.o
+ऩॊ	;n..o
+ऩो	;no
+ऩौ	;nau
+
+
+फ़ा	;ph.a
+फ़ि	;phi
+फ़ी	;ph.i
+फ़ु	;phu
+फ़ू	;ph.u
+फ़ृ	;ph.r
+फ़ॄ	;ph..r
+फ़ॢ	;ph.l
+फ़ॣ	;ph..l
+फ़ॅ	;ph.e
+फ़ॆ	;ph..e
+फ़े	;phe
+फ़ै	;phai
+फ़ॉ	;ph.o
+फ़ॊ	;ph..o
+फ़ो	;pho
+फ़ौ	;phau
+
+
+य़ा	;y.a
+य़ि	;yi
+य़ी	;y.i
+य़ु	;yu
+य़ू	;y.u
+य़ृ	;y.r
+य़ॄ	;y..r
+य़ॢ	;y.l
+य़ॣ	;y..l
+य़ॅ	;y.e
+य़ॆ	;y..e
+य़े	;ye
+य़ै	;yai
+य़ॉ	;y.o
+य़ॊ	;y..o
+य़ो	;yo
+य़ौ	;yau
+
+
+ऱा	;r.a
+ऱि	;ri
+ऱी	;r.i
+ऱु	;ru
+ऱू	;r.u
+ऱृ	;r.r
+ऱॄ	;r..r
+ऱॢ	;r.l
+ऱॣ	;r..l
+ऱॅ	;r.e
+ऱॆ	;r..e
+ऱे	;re
+ऱै	;rai
+ऱॉ	;r.o
+ऱॊ	;r..o
+ऱो	;ro
+ऱौ	;rau
+
+
+ळा	-l.a
+ळि	-li
+ळी	-l.i
+ळु	-lu
+ळू	-l.u
+ळृ	-l.r
+ळॄ	-l..r
+ळॢ	-l.l
+ळॣ	-l..l
+ळॅ	-l.e
+ळॆ	-l..e
+ळे	-le
+ळै	-lai
+ळॉ	-l.o
+ळॊ	-l..o
+ळो	-lo
+ळौ	-lau
+
+
+ऴा	;-l.a
+ऴि	;-li
+ऴी	;-l.i
+ऴु	;-lu
+ऴू	;-l.u
+ऴृ	;-l.r
+ऴॄ	;-l..r
+ऴॢ	;-l.l
+ऴॣ	;-l..l
+ऴॅ	;-l.e
+ऴॆ	;-l..e
+ऴे	;-le
+ऴै	;-lai
+ऴॉ	;-l.o
+ऴॊ	;-l..o
+ऴो	;-lo
+ऴौ	;-lau
+
+
+ॻा	-g.a
+ॻि	-gi
+ॻी	-g.i
+ॻु	-gu
+ॻू	-g.u
+ॻृ	-g.r
+ॻॄ	-g..r
+ॻॢ	-g.l
+ॻॣ	-g..l
+ॻॅ	-g.e
+ॻॆ	-g..e
+ॻे	-ge
+ॻै	-gai
+ॻॉ	-g.o
+ॻॊ	-g..o
+ॻो	-go
+ॻौ	-gau
+
+
+ॼा	-j.a
+ॼि	-ji
+ॼी	-j.i
+ॼु	-ju
+ॼू	-j.u
+ॼृ	-j.r
+ॼॄ	-j..r
+ॼॢ	-j.l
+ॼॣ	-j..l
+ॼॅ	-j.e
+ॼॆ	-j..e
+ॼे	-je
+ॼै	-jai
+ॼॉ	-j.o
+ॼॊ	-j..o
+ॼो	-jo
+ॼौ	-jau
+
+
+ॾा	-.d.a
+ॾि	-.di
+ॾी	-.d.i
+ॾु	-.du
+ॾू	-.d.u
+ॾृ	-.d.r
+ॾॄ	-.d..r
+ॾॢ	-.d.l
+ॾॣ	-.d..l
+ॾॅ	-.d.e
+ॾॆ	-.d..e
+ॾे	-.de
+ॾै	-.dai
+ॾॉ	-.d.o
+ॾॊ	-.d..o
+ॾो	-.do
+ॾौ	-.dau
+
+
+ॿा	-b.a
+ॿि	-bi
+ॿी	-b.i
+ॿु	-bu
+ॿू	-b.u
+ॿृ	-b.r
+ॿॄ	-b..r
+ॿॢ	-b.l
+ॿॣ	-b..l
+ॿॅ	-b.e
+ॿॆ	-b..e
+ॿे	-be
+ॿै	-bai
+ॿॉ	-b.o
+ॿॊ	-b..o
+ॿो	-bo
+ॿौ	-bau
+
