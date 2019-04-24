@@ -35,6 +35,7 @@ sort: original
 ॑	',
 ॓	'`
 ॔	'.`
+-	-\\
 ०	0
 १	1
 २	2
@@ -742,8 +743,8 @@ sort: original
 री	r.i
 रु	ru
 रू	r.u
-रृ	r.r
-रॄ	r..r
+र्ऋ	r.r
+र्ॠ	r..r
 रॢ	r.l
 रॣ	r..l
 रॅ	r.e
