@@ -3,8 +3,5 @@
 https://github.com/arpcn/rime-siddham
 
 
-![鍵盤](https://github.com/arpcn/rime-devanagari/鍵盤.png)
-
-
-
+![鍵盤](鍵盤.png)
 
