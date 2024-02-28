@@ -6,7 +6,7 @@
 
 https://github.com/arpcn/rime-devanagari/
 
-**IAST **
+**IAST**
 
 https://github.com/arpcn/rime-iast
 
