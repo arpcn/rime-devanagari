@@ -3,5 +3,7 @@
 https://github.com/arpcn/rime-siddham
 
 
+鍵盤分布：
+
 ![鍵盤](鍵盤.png)
 
