@@ -1,6 +1,6 @@
 # **Rime小狼毫輸入法安裝與使用**
 
-[Rime小狼毫輸入法安裝與使用](https://github.com/arpcn/rime-shanren3/wiki/Rime%E5%B0%8F%E7%8B%BC%E6%AF%AB%E8%BC%B8%E5%85%A5%E6%B3%95%E5%AE%89%E8%A3%9D%E8%88%87%E4%BD%BF%E7%94%A8)
+[Rime小狼毫輸入法安裝與使用](https://github.com/arpcn/rime-shanren3/wiki/Rime小狼毫輸入法安裝與使用)
 
 # **rime梵藏輸入方案**
 
